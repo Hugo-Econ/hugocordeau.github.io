@@ -1,7 +1,7 @@
 # Site settings shown in the left sidebar of the Minimal theme
 title: Hugo Cordeau
 description: Assistant Professor of Economics, Concordia University
-logo: /images/photo.jpg
+logo: /photo.jpeg
 
 # Theme
 remote_theme: pages-themes/minimal@v0.2.0
